@@ -1,1 +1,1 @@
-# dada-science
+# data-science
